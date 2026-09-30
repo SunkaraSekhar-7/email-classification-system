@@ -1,0 +1,14 @@
+{
+  "queue": {
+    "accuracy": 0.6002,
+    "macro_f1": 0.599,
+    "train_size": 22868,
+    "test_size": 5718
+  },
+  "priority": {
+    "accuracy": 0.6299,
+    "macro_f1": 0.6061,
+    "train_size": 22868,
+    "test_size": 5718
+  }
+}
