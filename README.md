@@ -12,8 +12,8 @@ Works on English and German emails.
 
 ## Dataset
 Customer support tickets (multi-language ticket dataset, ~28.6k tickets after removing duplicates).
-Columns used: `subject`, `body`, `answer`, `queue`, `priority`.
-The CSV is not stored in this repo. Place it at `data/tickets.csv`
+Columns used: `subject`, `body`, `answer`, `queue`, `priority`.  
+The dataset is included at `data/tickets.csv` (customer support tickets, ~28.6k rows).
 (the file `aa_dataset-tickets-multi-lang-5-2-50-version.csv` from the archive, renamed).
 
 ## Method
